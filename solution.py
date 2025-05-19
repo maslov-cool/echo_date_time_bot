@@ -1,4 +1,5 @@
 # Импортируем необходимые классы.
+# ник бота в тг -> @datetime_by_coding_lover_bot
 import logging
 import datetime
 from telegram.ext import Application, MessageHandler, filters, CommandHandler
